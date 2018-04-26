@@ -1,0 +1,12 @@
+name: XPAuth
+author: x0XP
+description: Authentication for offline beta servers.
+main: com.x0xp.Main
+version: 1.0
+commands:
+    register:
+        description: Register an account
+        usage: /register password
+    login:
+        description: Login into a account
+        usage: /login password
