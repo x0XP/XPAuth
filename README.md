@@ -8,6 +8,6 @@ Players may login knowing nobody will be able to impersonate them and will not b
 
 This plugin is still being worked on and does still have minor issues which are actively being worked on during my spare time.
 
-#Disclaimer
+# Disclaimer
 
 XPAuth is derived originally from a plugin named SashaAuth which can be found here https://github.com/2F4Uof2b2t/SashaAuth/
