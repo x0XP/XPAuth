@@ -6,7 +6,7 @@ XPAuth aims to provide the best possible experience for anarchy-based servers.
 
 Players may login knowing nobody will be able to impersonate them and will not be able to know their valuable base coordinates without logging in.
 
-This plugin is still being worked on and does still have minor issues which are actively being worked on during my spare time.
+This plugin is no longer being worked on and has some bugs. Feel free to fork the plugin yourselves and make changes where they are needed.
 
 # Disclaimer
 
